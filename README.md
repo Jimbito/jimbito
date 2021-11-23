@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a University of Manchester graduate with a Master's degree in Physics. I'm looking for work in the Data Science industry where I can develop my skills in data analysis and analytics with the use of machine learning and AI.
 <!--
 **Jimbito/jimbito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
